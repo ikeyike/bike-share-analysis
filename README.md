@@ -1,4 +1,4 @@
-# bike-share-analysis
+# Bike-Share-Analysis
 
 ## Introduction
 This is a case study completed as a capstone project for the Google Data Analytics Certificate. The data used for this case study is first party data collected by Lyft Bike's and Scooters, LLC ("Bikeshare") and the City of Chicago's ("Divvy") bike sharing service. This data owned by the city is made available to the public under this [license](https://ride.divvybikes.com/data-license-agreement). 

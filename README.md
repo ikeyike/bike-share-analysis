@@ -59,7 +59,7 @@ Here is a quick summary of my findings with Part 1 of the cleaning process:
 
 ### Part 2
 
-Now I  know what data needs to be cleaned/removed and which columns can be created from the existing data for our analyisis. Part 2 of the cleaning process with SQL can be viewed [here](https://console.cloud.google.com/bigquery?sq=373810022363:46df1a05ea1e4378955af4ebb146993e) on BigQuery. Below is an example of the first part of the query.
+Now I  know what data needs to be cleaned/removed and which columns can be created from the existing data for our analyisis. Part 2 of the cleaning process with SQL can be viewed [here](https://github.com/ikeyike/bike-share-analysis/blob/main/Cleaning%20Part%202.sql) on GitHub. Below is an example of the first part of the query.
 
 ![Screen Shot 2022-12-20 at 1 30 34 PM](https://user-images.githubusercontent.com/121066858/209037119-f54f3026-5a0a-44eb-87ca-5311f8190112.png)
 
@@ -78,7 +78,7 @@ In total, I removed 173,538 rows to be left with a clean combined table with 4,3
 
 Time to answer the question: How do annual members and casual riders use Cyclistic bikes differently? Time to analyze the data.
 
-To analyze my data, I used SQL in BigQuery to sort, filter, and aggregate my data before importing it into Tableau to create data visualizations. My SQL analysis queries can be viewed [here](https://console.cloud.google.com/bigquery?sq=373810022363:46df1a05ea1e4378955af4ebb146993e) starting at line 97 and all my Tableau visualizations can be found [here](https://public.tableau.com/app/profile/ike.emeche/viz/GoogleDataAnalyticsCapstoneProject_16711701880590/Top5Routes?publish=yes). An example of two of the queries can be seen below.
+To analyze my data, I used SQL in BigQuery to sort, filter, and aggregate my data before importing it into Tableau to create data visualizations. My SQL analysis queries can be viewed [here](https://github.com/ikeyike/bike-share-analysis/blob/main/Cleaning%20Part%202.sql) starting at line 97 and all my Tableau visualizations can be found [here](https://public.tableau.com/app/profile/ike.emeche/viz/GoogleDataAnalyticsCapstoneProject_16711701880590/Top5Routes?publish=yes). An example of two of the queries can be seen below.
 
 ![Screen Shot 2022-12-20 at 2 05 58 PM](https://user-images.githubusercontent.com/121066858/209037200-f2866908-f402-49d1-960c-c04c676c09c3.png)
 

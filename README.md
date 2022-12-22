@@ -42,7 +42,7 @@ The combined table contains 4,517,370 rows and has 13 columns. Below is the name
 
 ![Screen Shot 2022-12-19 at 6 41 12 PM](https://user-images.githubusercontent.com/121066858/209036391-1044cc60-6f00-41e6-a5a7-7d3b43d240ed.png)
 
-I explored the data from the combined table by running queries on each column and making notes of data to be cleaned. Part 1 of the cleaning process with SQL can be viewed [here](https://console.cloud.google.com/bigquery?sq=373810022363:01ee5fde9213466192f0db73fd639b11) on BigQuery. An example of me analyzing all the columns for null values can be seen below:
+I explored the data from the combined table by running queries on each column and making notes of data to be cleaned. Part 1 of the cleaning process with SQL can be viewed [here](https://github.com/ikeyike/bike-share-analysis/blob/main/Cleaning%20Part%201.sql) on GitHub. An example of me analyzing all the columns for null values can be seen below:
 
 ![Screen Shot 2022-12-20 at 1 30 34 PM](https://user-images.githubusercontent.com/121066858/209036431-ea487087-a26c-48e1-960c-429eab405233.png)
 

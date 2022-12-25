@@ -9,7 +9,7 @@ For the purposes of this case study, the data is being considered as data collec
 
 In this case study, I am a Jr. Data Analyst at Cyclistic, a bike-share company based in Chicago. Cyclistic offers a bike-share program that features more than 5,800 bicycles and 600 docking stations in Chicago. Cyclistic has two customer segments: Casuals and Members. Casuals are customers who either buy a single-trip pass or a day pass, and Members are classified as customers that buy annual memberships.
 
-The marketing team  believes there is a very good chance to convert casual riders into members and want to design marketing strategies around this. I have been assigned the question: "How do annual members and casual riders use Cyclistic bikes differently?" and will report back by my manager, the director of marketing, what I find.
+The marketing team believes there is a very good chance to convert casual riders into members and want to design marketing strategies around this. I have been assigned the question: "How do annual members and casual riders use Cyclistic bikes differently?" and will report back by my manager, the director of marketing, with what I find.
 
 I will produce a report with the following deliverables:
 
@@ -34,7 +34,7 @@ This is the business task: Discover how annual members and casual riders use Cyc
 
 I used SQL on Google’s BigQuery platform to combine and clean the data. Below is an outline of my process:
 
-I created a dataset called tripdata_2021_to_2022 and imported the 12 CSV files as 12 separate monthly tables in the dataset. I then combined all 12 monthly tables into one table containing all bike trip data from NOV 2021 to OCT 2022.
+I created a dataset called tripdata_2021_to_2022 and imported 12 CSV files as 12 separate monthly tables in the dataset. I then combined all 12 monthly tables into one table containing all bike trip data from NOV 2021 to OCT 2022.
 
 ![Screen Shot 2022-12-19 at 12 02 59 AM](https://user-images.githubusercontent.com/121066858/209036295-2d60b8c2-0542-4c11-ba36-e8313d2ffdac.png)
 
@@ -143,7 +143,7 @@ The map above shows similar trends of casual riders around areas near parks and 
 * Are active mostly during Spring and Summer
 * The number of rides and average ride time indicates that they don't ride a lot, but when they do they spend a high amount of time on a trip.
 * They tend to have most of their rides during the end of the week.
-* Their top routes hint that they use the bike almost only for a recreational purpose.
+* Their top routes hint that they use the bikes almost only for a recreational purpose.
 
 #### Members
 
